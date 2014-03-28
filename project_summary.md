@@ -3,7 +3,6 @@
 
 ## Authors
 - Prathamesh, Parte, https://github.com/psparte
-- Insert other author(s) name, surname, github account (one per list element)
 
 ## Description
 Its simple just this IOS==>APK or APK==>IOS. Just as a TRUE converter. 
